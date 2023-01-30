@@ -10,8 +10,9 @@
 
 <br>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="20"> Languages and tools:
+### <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="20"> Languages and tools
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,md,docker,express,figma,git,react,materialui,mongodb,mysql,postgres,jest,netlify,vercel,nextjs,nodejs,redux,regex,sass,tailwind,vite,webpack,vscode&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,materialui,nodejs,nextjs,express,mongodb,mysql,postgres,md,docker,figma,git,jest,netlify,vercel,regex,vite,webpack,vscode&perline=15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/324px-ESLint_logo.svg.png?20211012234406" width="30">
