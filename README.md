@@ -15,4 +15,5 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,materialui,nodejs,nextjs,express,mongodb,mysql,postgres,md,docker,figma,git,jest,netlify,vercel,regex,vite,webpack,vscode&perline=15" width="500"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/324px-ESLint_logo.svg.png?20211012234406" width="30">
+<img src="https://www.svgrepo.com/show/353709/eslint.svg" width="30">
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="30">
