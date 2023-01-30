@@ -22,4 +22,7 @@
 <br>
 
 <!--START_SECTION:waka-->
+SHOW_OS
+[SHOW_OS]
+(SHOW_OS)
 <!--END_SECTION:waka-->
