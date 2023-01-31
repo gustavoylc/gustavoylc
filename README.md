@@ -21,5 +21,5 @@
 </div>
 <br>
 
-<!--START_SECTION:waka-readme-stats-->
-<!--END_SECTION:waka-readme-stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
