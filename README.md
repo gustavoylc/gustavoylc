@@ -22,23 +22,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 75 Contributions in the Year 2023
- > 
-> 📦 14.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Havana
-
 💬 Programming Languages: 
 JavaScript               16 hrs 22 mins      █████████████████░░░░░░░░   70.28% 
 Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
@@ -55,18 +41,6 @@ Windows                  4 hrs               ████░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               9 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-Vue                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-
-```
-
-
-
- Last Updated on 31/01/2023 16:39:37 UTC
+ Last Updated on 31/01/2023 17:35:57 UTC
 <!--END_SECTION:waka-->
