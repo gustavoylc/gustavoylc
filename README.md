@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on building useful personal projects
 
-🌱 I’m currently learning socket.io
+🌱 I’m currently learning testing with cypress
 
 👯 I’m looking to collaborate on a high-impact project.
 
@@ -15,4 +15,3 @@
 <br>
 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,materialui,nextjs,figma,git,jest,netlify,vercel,regex,vite,postman,webpack,vscode,eslint&perline=10"       width="500"/>
- 
