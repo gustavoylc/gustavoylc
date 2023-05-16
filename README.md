@@ -14,4 +14,4 @@
 
 <br>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,materialui,nextjs,figma,git,jest,netlify,vercel,regex,vite,postman,webpack,vscode,eslint&perline=10"       width="300"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,materialui,nextjs,figma,git,jest,netlify,vercel,regex,vite,postman,webpack,vscode,eslint&perline=20"       width="250"/>
