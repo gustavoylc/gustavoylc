@@ -2,12 +2,6 @@
 
 ![Header](./images/github-header-image.png)
 
-🔭 I’m currently working on building useful personal projects
-
-🌱 I’m currently learning testing with cypress
-
-👯 I’m looking to collaborate on a high-impact project.
-
 <br>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="20"> Languages and tools
