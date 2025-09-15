@@ -8,4 +8,4 @@
 
 <br>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind,nextjs&perline=20"       width="400"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,nodejs,n8n,docker,postgresql,cloudflare,jenkins,jest,markdown,pnpm,prisma,redis,supabase,vscode&perline=20"       width="200"/>
